@@ -1,0 +1,24 @@
+{
+  "template": "https://github.com/brightway-lca/cookiecutter-brightwaylib",
+  "commit": "dc0764a425dd99c849c6f749c4a6f07b37f0208c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Yannis",
+      "email": "yannis.rosset@grenoble-inp.fr",
+      "github_username": "yannis.rosset@grenoble-inp.fr",
+      "project_name": "electrolyser",
+      "package_name": "electrolyserp",
+      "project_short_description": "test of electroyser",
+      "version": "0.1.0",
+      "use_pytest": "y",
+      "open_source_license": "MIT",
+      "copyright_year": "2024",
+      "_copy_without_render": [
+        ".github/*"
+      ],
+      "_template": "https://github.com/brightway-lca/cookiecutter-brightwaylib"
+    }
+  },
+  "directory": null
+}
